@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+
+#cor {
+    display: flex;
+    width: 100%;
+    height: 65px;
+    border: 1px solid rgb(58, 57, 57);
+    background-color: rgb(83, 83, 83);
+}
+
+p {
+    
+    font-size: 18pt;
+    font-weight: bolder;
+    color: #FFF;
+}
+
+#img1{
+    margin-left: 1200px;
+    height: 45px;
+    width: 100px;
+}
+
+#img2 {
+    width: 60px;
+    height: 45px;
+}
+
+#img3 {
+    width: 40px;
+    margin-left: 7px;
+    height: 45px;
+}
+
+#img4 {
+    width: 60px;
+    margin-left: 5px;
+    height: 45px;
+}
+#imagem {
+    background-color: #FFF;
+    margin-top: -20px;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    display: flex;
+}
+
+#img5 {
+    margin-top: 10px;
+    margin-left: 385px;
+    height: 80px;
+}
+#img6 {
+    margin-top: 20px;
+    height: 60px;
+    width: 180px;
+}
+
+#img7 {
+    margin-top: 20px;
+    height: 80px;
+    width: 90px;
+}
+
+
+.col-12 {
+    margin-top: 15px;
+    margin-left: 335px;
+    float: left;
+}
+
+.form-control {
+    width: 250px;
+}
+
+.text-end {
+    margin-left: 10px;
+    margin-top: 15px;
+    float: left;
+}
+
+.nav-link {
+    color: rgb(92, 92, 92);
+}
+ul > li {
+    font-weight: 600;
+    font-size: 12pt;
+    float: left;
+}
+
+li {
+    margin-left: 40px;
+}
+
+
+
+.container{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.container2{
+    margin-left: 600px;
+    display: flex;
+    margin-top: 20px;
+    width: 60%;
+}
+
+
+.card {
+    text-align: center;
+    width:250px;
+}
+
+.preco {
+    width: 230px;
+}
+.form-row {
+    margin-top: 40px;
+}
+
+
+.table {
+    margin-top: 15px;
+    text-align: center;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    border: 1px solid rgb(136, 135, 135);
+    background-color: rgb(3, 58, 28);
+    box-shadow: 3px 4px 6px rgb(2, 46, 22);
+}
+
+.table  th {
+    background-color: rgb(74, 74, 75);
+    color: #FFF;
+}
+
+.table td {
+    background-color: rgba(72, 87, 72, 0.664);
+}
+
+h1 {
+    color: rgb(2, 46, 22);
+    padding: 10px;
+    box-shadow: 1px 6px 8px rgb(2, 46, 22) ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5px;
+}
+
+#img10 {
+    margin-top: 20px;
+    width: 120px;
+}
+
+.fas {
+    font-size: 20pt;
+}
+
+
+.img {
+    margin-right: 230px;
+    width: 40px;
+}
+span {
+    font-size: 18pt;
+    margin-left: 150px;
+}
+section {
+    background-color: rgb(230, 230, 230);
+    margin-top: 60px;
+
+}
+
